@@ -1,0 +1,2 @@
+### test async metho
+GET http://localhost:8080/async/6
